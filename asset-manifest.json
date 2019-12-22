@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-bulletin-board/static/js/main.8e92992d.chunk.js",
-    "main.js.map": "/react-bulletin-board/static/js/main.8e92992d.chunk.js.map",
-    "runtime-main.js": "/react-bulletin-board/static/js/runtime-main.4fe3980f.js",
-    "runtime-main.js.map": "/react-bulletin-board/static/js/runtime-main.4fe3980f.js.map",
-    "static/js/2.0752bae7.chunk.js": "/react-bulletin-board/static/js/2.0752bae7.chunk.js",
-    "static/js/2.0752bae7.chunk.js.map": "/react-bulletin-board/static/js/2.0752bae7.chunk.js.map",
-    "index.html": "/react-bulletin-board/index.html",
-    "precache-manifest.d0a67a623e17c29c7135203a91f87db5.js": "/react-bulletin-board/precache-manifest.d0a67a623e17c29c7135203a91f87db5.js",
-    "service-worker.js": "/react-bulletin-board/service-worker.js",
-    "static/js/2.0752bae7.chunk.js.LICENSE": "/react-bulletin-board/static/js/2.0752bae7.chunk.js.LICENSE"
+    "main.js": "/static/js/main.a9434140.chunk.js",
+    "main.js.map": "/static/js/main.a9434140.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea6eb41d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea6eb41d.js.map",
+    "static/js/2.7cbc3609.chunk.js": "/static/js/2.7cbc3609.chunk.js",
+    "static/js/2.7cbc3609.chunk.js.map": "/static/js/2.7cbc3609.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac53ffea49e92f3167f9ae9aa7a79e83.js": "/precache-manifest.ac53ffea49e92f3167f9ae9aa7a79e83.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.7cbc3609.chunk.js.LICENSE": "/static/js/2.7cbc3609.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fe3980f.js",
-    "static/js/2.0752bae7.chunk.js",
-    "static/js/main.8e92992d.chunk.js"
+    "static/js/runtime-main.ea6eb41d.js",
+    "static/js/2.7cbc3609.chunk.js",
+    "static/js/main.a9434140.chunk.js"
   ]
 }
