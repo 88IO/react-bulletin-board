@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-bulletin-board/static/js/main.c87481d5.chunk.js",
-    "main.js.map": "/react-bulletin-board/static/js/main.c87481d5.chunk.js.map",
+    "main.js": "/react-bulletin-board/static/js/main.a9434140.chunk.js",
+    "main.js.map": "/react-bulletin-board/static/js/main.a9434140.chunk.js.map",
     "runtime-main.js": "/react-bulletin-board/static/js/runtime-main.4fe3980f.js",
     "runtime-main.js.map": "/react-bulletin-board/static/js/runtime-main.4fe3980f.js.map",
     "static/js/2.7cbc3609.chunk.js": "/react-bulletin-board/static/js/2.7cbc3609.chunk.js",
     "static/js/2.7cbc3609.chunk.js.map": "/react-bulletin-board/static/js/2.7cbc3609.chunk.js.map",
     "index.html": "/react-bulletin-board/index.html",
-    "precache-manifest.859c5ac960fae33db0d28d01805bd69b.js": "/react-bulletin-board/precache-manifest.859c5ac960fae33db0d28d01805bd69b.js",
+    "precache-manifest.8f7ff96687335dc1dbaede9ccd6397a4.js": "/react-bulletin-board/precache-manifest.8f7ff96687335dc1dbaede9ccd6397a4.js",
     "service-worker.js": "/react-bulletin-board/service-worker.js",
     "static/js/2.7cbc3609.chunk.js.LICENSE": "/react-bulletin-board/static/js/2.7cbc3609.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.4fe3980f.js",
     "static/js/2.7cbc3609.chunk.js",
-    "static/js/main.c87481d5.chunk.js"
+    "static/js/main.a9434140.chunk.js"
   ]
 }
