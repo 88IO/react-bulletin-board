@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-bulletin-board/static/js/main.4fd44cfc.chunk.js",
-    "main.js.map": "/react-bulletin-board/static/js/main.4fd44cfc.chunk.js.map",
+    "main.js": "/react-bulletin-board/static/js/main.513ee395.chunk.js",
+    "main.js.map": "/react-bulletin-board/static/js/main.513ee395.chunk.js.map",
     "runtime-main.js": "/react-bulletin-board/static/js/runtime-main.4fe3980f.js",
     "runtime-main.js.map": "/react-bulletin-board/static/js/runtime-main.4fe3980f.js.map",
-    "static/js/2.735f17f4.chunk.js": "/react-bulletin-board/static/js/2.735f17f4.chunk.js",
-    "static/js/2.735f17f4.chunk.js.map": "/react-bulletin-board/static/js/2.735f17f4.chunk.js.map",
+    "static/js/2.7cbc3609.chunk.js": "/react-bulletin-board/static/js/2.7cbc3609.chunk.js",
+    "static/js/2.7cbc3609.chunk.js.map": "/react-bulletin-board/static/js/2.7cbc3609.chunk.js.map",
     "index.html": "/react-bulletin-board/index.html",
-    "precache-manifest.790ad657b051689a6b7ad7392454a2b7.js": "/react-bulletin-board/precache-manifest.790ad657b051689a6b7ad7392454a2b7.js",
+    "precache-manifest.9d6f39a40019931525e9d1bfdb2a2632.js": "/react-bulletin-board/precache-manifest.9d6f39a40019931525e9d1bfdb2a2632.js",
     "service-worker.js": "/react-bulletin-board/service-worker.js",
-    "static/js/2.735f17f4.chunk.js.LICENSE": "/react-bulletin-board/static/js/2.735f17f4.chunk.js.LICENSE"
+    "static/js/2.7cbc3609.chunk.js.LICENSE": "/react-bulletin-board/static/js/2.7cbc3609.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.4fe3980f.js",
-    "static/js/2.735f17f4.chunk.js",
-    "static/js/main.4fd44cfc.chunk.js"
+    "static/js/2.7cbc3609.chunk.js",
+    "static/js/main.513ee395.chunk.js"
   ]
 }
